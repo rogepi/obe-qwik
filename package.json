@@ -25,10 +25,12 @@
     "@builder.io/qwik": "1.1.4",
     "@builder.io/qwik-city": "1.1.4",
     "@fontsource/inter": "^4.5.15",
+    "@supabase/supabase-js": "^2.24.0",
     "@unpic/qwik": "^0.0.19",
     "gray-matter": "^4.0.3",
     "markdown-it": "^13.0.1",
-    "node-fetch": "3.3.1"
+    "node-fetch": "3.3.1",
+    "supabase-auth-helpers-qwik": "^0.0.3"
   },
   "devDependencies": {
     "@divriots/jampack": "^0.11.7",
