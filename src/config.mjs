@@ -2,9 +2,9 @@ export const SITE = {
   name: "Qwind",
 
   title:
-    "Qwind — Free template for Qwik + Tailwind CSS to build your new website.",
+  `Ogden's BASIC ENGLISH VOCABULARY`,
   description:
-    "Qwind is a free and ready to start template to make your website using Qwik and Tailwind CSS.",
+  'Basic English is a simplified version of English language created by Charles Kay Ogden. Here are the 850 words in his order.',
 
   origin: "https://qwind.pages.dev",
   basePathname: "/",
