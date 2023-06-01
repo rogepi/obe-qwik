@@ -1,4 +1,4 @@
 export interface IWord {
-  id: string;
+  id: number;
   word: string;
 }

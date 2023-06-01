@@ -1,6 +1,5 @@
 import { component$ } from "@builder.io/qwik";
 import { DocumentHead, routeLoader$ } from "@builder.io/qwik-city";
-import { createServerClient } from "supabase-auth-helpers-qwik";
 import WordList from "~/components/widgets/WordList";
 
 // import Hero from "~/components/widgets/Hero";
@@ -12,32 +11,27 @@ import WordList from "~/components/widgets/WordList";
 import { SITE } from "~/config.mjs";
 import { IWord } from "~/utils/types";
 
-export const useWords = routeLoader$(async (requestEv) => {
-  const supabaseClient = createServerClient(
-    requestEv.env.get("PUBLIC_SUPABASE_URL")!,
-    requestEv.env.get("PUBLIC_SUPABASE_ANON_KEY")!,
-    requestEv
-  );
-  const { data } = await supabaseClient.from("word").select("*");
-  console.log(data);
+export const useWords = routeLoader$(async () => {
+  const data: IWord[] = [
+    { id: 1, word: "come" },
+    { id: 2, word: "here" },
+    { id: 3, word: "there" },
+  ];
+
   return { data };
 });
 
 export default component$(() => {
   const signal = useWords();
-  // console.log(signal.value.data);
   return (
-    <>
-      {/* <WordList
-        title="OPERATIONS - 100 words"
-        words={signal.value.data as IWord[]}
-      /> */}
+    <main class="p-5 mx-auto w-full md:flex md:justify-between max-w-7xl md:px-6">
+      <WordList title="OPERATIONS - 100 words" words={signal.value.data} />
       {/* <Hero />
       <Features />
       <FAQs />
       <Stats />
       <CallToAction /> */}
-    </>
+    </main>
   );
 });
 

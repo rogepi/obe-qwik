@@ -5,12 +5,12 @@ import Header from "~/components/widgets/Header";
 
 export default component$(() => {
   return (
-    <>
+    <div class="flex flex-col min-h-screen">
       <Header />
-      <main>
+      <main class="flex-1">
         <Slot />
       </main>
       <Footer />
-    </>
+    </div>
   );
 });

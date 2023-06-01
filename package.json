@@ -16,7 +16,11 @@
     "fmt.check": "prettier --check .",
     "lint": "eslint \"src/**/*.ts*\"",
     "postbuild": "npm run subfont",
+    "postinstall": "prisma generate",
     "preview": "qwik build preview && vite preview --open",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:migrate:prod": "prisma migrate deploy",
     "start": "vite --open --mode ssr",
     "subfont": "subfont -i --inline-css --no-fallbacks --silent --root dist",
     "qwik": "qwik"
@@ -25,15 +29,14 @@
     "@builder.io/qwik": "1.1.4",
     "@builder.io/qwik-city": "1.1.4",
     "@fontsource/inter": "^4.5.15",
-    "@supabase/supabase-js": "^2.24.0",
     "@unpic/qwik": "^0.0.19",
     "gray-matter": "^4.0.3",
     "markdown-it": "^13.0.1",
-    "node-fetch": "3.3.1",
-    "supabase-auth-helpers-qwik": "^0.0.3"
+    "node-fetch": "3.3.1"
   },
   "devDependencies": {
     "@divriots/jampack": "^0.11.7",
+    "@prisma/client": "4.14.0",
     "@tailwindcss/typography": "^0.5.9",
     "@types/eslint": "8.40.0",
     "@types/markdown-it": "^12.2.3",
@@ -45,6 +48,7 @@
     "eslint-plugin-qwik": "1.1.4",
     "postcss": "^8.4.23",
     "prettier": "2.8.8",
+    "prisma": "^4.14.0",
     "subfont": "^7.1.0",
     "tailwindcss": "^3.3.2",
     "typescript": "5.0.4",
