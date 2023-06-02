@@ -1,0 +1,311 @@
+id,word,pronunciation,translation,classification,sentence1,sentence1Trans,sentence2,sentence2Trans
+1,come,kʌm,来,OPERATIONS,I can't come to the party tonight.,我今晚不能来参加聚会。,Please come in.,请进来。
+2,get,ɡet,得到,OPERATIONS,Did you get my message?,你收到我的信息了吗？,I need to get some rest.,我需要休息一下。
+3,give,ɡɪv,给予,OPERATIONS,Can you give me a hand with this?,你能帮我一下吗？,She gave him a book as a gift.,她送给他一本书作为礼物。
+4,go,ɡoʊ,去,OPERATIONS,I have to go to work early tomorrow.,我明天必须早去上班。,Let's go to the beach!,我们去海滩吧！
+5,keep,kip,保持，继续,OPERATIONS,Please keep quiet in the library.,请在图书馆保持安静。,I'll keep an eye on it.,我会继续关注它的。
+6,let,let,让，允许,OPERATIONS,Let me know if you need any help.,如果你需要帮助，请告诉我。,She let her hair down.,她放下了她的头发。
+7,make,meɪk,制作，使得,OPERATIONS,I'm going to make dinner tonight.,我今晚要做晚餐。,She made a mistake on the test.,她在考试中犯了一个错误。
+8,put,pʊt,放置，放下,OPERATIONS,Can you put the book on the shelf?,你能把书放在书架上吗？,He put his keys in his pocket.,他把钥匙放在口袋里。
+9,seem,siːm,似乎，好像,OPERATIONS,It seems like it's going to rain.,天气好像要下雨了。,She seems happy today.,她今天看起来很开心。
+10,take,teɪk,拿，取,OPERATIONS,I need to take a break.,我需要休息一下。,He took a picture of the sunset.,他拍了一张日落的照片。
+11,be,bi,是，存在,OPERATIONS,She is a doctor.,她是一名医生。,It will be sunny tomorrow.,明天会是晴天。
+12,do,du,做，干,OPERATIONS,What do you do for a living?,你从事什么工作？,I need to do my homework.,我需要做我的家庭作业。
+13,have,hæv,拥有，有,OPERATIONS,I have a cat and a dog.,我有一只猫和一只狗。,Do you have any questions?,你有什么问题吗？
+14,say,seɪ,说,OPERATIONS,She didn't say anything.,她什么都没说。,He said he would be here on time.,他说他会准时到达这里。
+15,see,si,看，见,OPERATIONS,I see what you mean.,我明白你的意思。,I can't see without my glasses.,我没有戴眼镜就看不清。
+16,send,send,发送,OPERATIONS,I will send you an email later.,我会稍后给你发送一封电子邮件。,She sent a postcard to her friend.,她给她的朋友寄了一张明信片。
+17,may,meɪ,可能，可以,OPERATIONS,May I ask you a question?,我可以问你个问题吗？,It may rain later today.,今天晚些时候可能会下雨。
+18,will,wɪl,将要，愿意,OPERATIONS,I will help you with that.,我会帮你的。,Will you come to the party tonight?,你今晚会来参加聚会吗？
+19,about,əˈbaʊt,关于，大约,OPERATIONS,What are you talking about?,你在谈论什么？,I'm thinking about my future.,我在考虑我的未来。
+20,across,əˈkrɔs,横过，穿过,OPERATIONS,We need to walk across the bridge to get to the other side of the river.,我们需要走过桥才能到达河对岸。,The store is just across the street.,商店就在街对面。
+21,after,ˈæftər,在...之后,OPERATIONS,We'll meet at the restaurant after the movie.,电影后我们会在餐厅见面。,I always have a cup of tea after dinner.,晚饭后我总是喝一杯茶。
+22,against,əˈɡɛnst,对着，靠着,OPERATIONS,He leaned against the wall.,他靠在墙上。,The soccer ball hit the goalpost and bounced back against the player.,足球撞在球门柱上，反弹回击球员。
+23,among,əˈmʌŋ,在...之中,OPERATIONS,There are many books among the shelves.,书架之间有很多书。,He felt lonely among the crowd.,他觉得在人群中很孤独。
+24,at,æt,在...处,OPERATIONS,I met her at the office.,我在办公室见到了她。,The party is at John's house.,聚会在约翰家。
+25,before,bɪˈfɔr,在...之前,OPERATIONS,You should arrive at the airport at least two hours before your flight.,你应该在你的航班起飞前至少提前两个小时到达机场。,We need to finish the project before the deadline.,我们需要在截止日期之前完成这个项目。
+26,between,bɪˈtwiːn,在...之间,OPERATIONS,The library is located between the school and the park.,图书馆位于学校和公园之间。,We need to choose between the two options.,我们需要在这两个选项之间进行选择。
+27,by,baɪ,通过，靠,OPERATIONS,I usually go to work by bus.,我通常乘公交车上班。,He fixed the chair by gluing it back together.,他通过胶水把椅子粘在一起修好了。
+28,down,daʊn,向下,OPERATIONS,The cat climbed down the tree.,猫从树上爬下来了。,He wrote the phone number down on a piece of paper.,他把电话号码写在一张纸上。
+29,from,frʌm,从，自,OPERATIONS,I'm from Canada.,我来自加拿大。,The package is from my friend.,这个包裹是我朋友寄来的。
+30,in,ɪn,在，于,OPERATIONS,He is in the kitchen.,他在厨房里。,She is studying in the library.,她在图书馆学习。
+31,off,ɔf,离开，关闭,OPERATIONS,He took the day off from work.,他放了一天假。,Please turn off the lights when you leave.,离开时请关灯。
+32,on,ɑn,在...上，开启，穿着,OPERATIONS,The book is on the table.,书在桌子上。,She turned on the TV and watched the news.,她打开电视看新闻。
+33,over,ˈoʊvər,在...上方，结束,OPERATIONS,The bird flew over the house.,鸟飞过了房子。,The game is over.,比赛结束了。
+34,through,θru,通过，穿过,OPERATIONS,We walked through the park.,我们穿过了公园。,He read through the entire book in one night.,他一夜之间读完了整本书。
+35,to,tuː,到，向,OPERATIONS,Are you coming to the party tonight?,你今晚来参加聚会吗？,I am going to the store to buy some milk.,我去商店买牛奶。
+36,under,ˈʌndər,在…下面,OPERATIONS,The cat is under the table.,猫在桌子下面。,I found my keys under the couch.,我在沙发下找到了我的钥匙。
+37,up,ʌp,向上,OPERATIONS,Can you help me pick this box up?,你能帮我把这个盒子拿起来吗？,The balloon went up into the sky.,气球飘向了天空。
+38,with,wɪð,和,OPERATIONS,Can you come with me to the concert?,你能和我一起去音乐会吗？,I like to drink my coffee with milk.,我喜欢在咖啡里加牛奶。
+39,as,æz,作为,OPERATIONS,"As a teacher, I believe in lifelong learning.",作为一名教师，我相信终身学习。,He sang as if he were on stage.,他唱得像是在舞台上一样。
+40,for,fɔːr,为了,OPERATIONS,We need to work hard for our dreams.,为了梦想，我们需要努力工作。,I bought this book for my sister's birthday.,我为我妹妹的生日买了这本书。
+41,of,əv,的，属于,OPERATIONS,This is a picture of my family.,这是我家人的照片。,The color of the sky is blue.,天空的颜色是蓝色的。
+42,till,tɪl,直到,OPERATIONS,I will wait for you till you come back.,我会等你回来的。,You can play with your toys till dinner time.,晚饭时间之前你可以玩玩具。
+43,than,ðæn,比,OPERATIONS,I am taller than my brother.,我比我兄弟高。,I'd rather read a book than watch TV.,我宁愿看书也不愿看电视。
+44,a,eɪ,一个，一件,OPERATIONS,A cat is sleeping on a chair.,一只猫在椅子上睡觉。,I need to buy a new pair of shoes.,我需要买一双新鞋。
+45,the,ði,这个，那个,OPERATIONS,The sun is shining in the sky.,太阳在天空中闪耀。,The cat is hiding under the bed.,猫躲在床底下。
+46,all,ɔːl,全部，所有,OPERATIONS,All of us are going tothe party.,我们所有人都要去聚会。,She ate all of the cake by herself.,她一个人把所有的蛋糕都吃了。
+47,any,ˈeni,任何，一些,OPERATIONS,Do you have any questions for me?,你有什么问题要问我吗？,I don't have any money in my wallet.,我的钱包里没有一分钱。
+48,every,ˈɛvri,每个，每一,OPERATIONS,Every student in the class passed the test.,班上每个学生都通过了考试。,He goes for a run every morning.,他每天早上都去跑步。
+49,little,ˈlɪtl,一点，一些,OPERATIONS,She has a little bit of sugar in her coffee.,她的咖啡里加了一点糖。,The little boy was afraid of the dark.,小男孩害怕黑暗。
+50,much,mʌtʃ,很多，非常,OPERATIONS,We don't have much time left.,我们剩下的时间不多了。,I like ice cream very much.,我非常喜欢吃冰淇淋。
+51,no,nəʊ,没有，不是,OPERATIONS,"No, I haven't seen the movie yet.",不，我还没有看过那部电影。,He said no to the invitation.,他拒绝了邀请。
+52,other,ˈʌðə,其他，另外,OPERATIONS,I have no other choice.,我别无选择。,The other students are already in the classroom.,其他学生已经在教室里了。
+53,some,sʌm,一些，某些,OPERATIONS,"Can you give me some water, please?",请给我一些水好吗？,I have some friends in that city.,我在那个城市有一些朋友。
+54,such,sʌtʃ,这样的，那样的,OPERATIONS,I've never seen such a beautiful sunset before.,我从未见过如此美丽的日落。,He is not used to such cold weather.,他不习惯这样的寒冷天气。
+55,that,ðæt,那个，那样的,OPERATIONS,That is a nice car.,那是一辆漂亮的车。,I don't like that kind of music.,我不喜欢那种音乐。
+56,this,ðɪs,这个，这样的,OPERATIONS,This is my favorite restaurant.,这是我最喜欢的餐厅。,I don't like this color.,我不喜欢这个颜色。
+57,I,aɪ,我,OPERATIONS,I am going to the park.,我要去公园。,I like to read books.,我喜欢读书。
+58,he,hiː,他,OPERATIONS,He is my brother.,他是我的兄弟。,He likes to play basketball.,他喜欢打篮球。
+59,you,juː,你,OPERATIONS,"Can you help me, please?",你能帮我一下吗？,You are my best friend.,你是我最好的朋友。
+60,who,huː,谁,OPERATIONS,Who is that person?,那个人是谁？,I don't know who she is.,我不知道她是谁。
+61,and,ænd,和，与,OPERATIONS,I like to drink coffee and tea.,我喜欢喝咖啡和茶。,He is tall and handsome.,他又高又帅。
+62,because,bɪˈkɒz,因为,OPERATIONS,I am staying home because I am sick.,我因为生病呆在家里。,He didn't go to the party because he had to work.,他没去聚会因为他要工作。
+63,but,bʌt,但是，而,OPERATIONS,"I want to go to the party, but I am too tired.",我想去参加聚会，但是我太累了。,He is not rich but he is happy.,他虽然不富有，但是很幸福。
+64,or,ɔː,或者,OPERATIONS,Do you want coffee or tea?,你想要咖啡还是茶？,You can choose to stay at home or go out.,你可以选择呆在家中或者出去。
+65,if,ɪf,如果,OPERATIONS,"If it rains, we will stay inside.",如果下雨了，我们就呆在室内。,"If you don't hurry, you will miss the train.",如果你不赶快，你会错过火车。
+66,though,ðəʊ,虽然，尽管,OPERATIONS,"Though he is young, he is very talented.",虽然他年纪轻，但是很有才华。,She went to the party though she was tired.,虽然她很累，但是她去了聚会。
+67,while,waɪl,当…的时候，一边…一边…,OPERATIONS,I like to read while I'm on the train.,我喜欢在火车上看书。,He studied while he was waiting for his flight.,他在等待飞机的时候学习。
+68,how,haʊ,怎么样，如何,OPERATIONS,How are you feeling today?,你今天感觉怎么样？,How do you like your coffee?,你喜欢怎样的咖啡？
+69,when,wen,什么时候，当…的时候,OPERATIONS,When is your birthday?,你的生日是什么时候？,I like to read before I go to bed when I'm tired.,当我累的时候，我喜欢在睡觉前读书。
+70,where,weə,哪里，到哪里,OPERATIONS,Where are you going?,你去哪里？,I don't know where my phone is.,我不知道我的手机在哪里。
+71,why,waɪ,为什么,OPERATIONS,Why did you do that?,你为什么那么做？,I don't understand why she said that.,我不明白她为什么那么说。
+72,again,əˈɡen,再一次，又,OPERATIONS,"Can you say that again, please?",请你再说一遍好吗？,He fell off his bike again.,他又从自行车上摔下来了。
+73,ever,ˈɛvə,曾经，永远,OPERATIONS,Have you ever been to Paris?,你曾经去过巴黎吗？,I will love you forever and ever.,我会永远爱你。
+74,far,fɑː,远，遥远,OPERATIONS,The store is not far from here.,商店离这里不远。,The hotel is too far from the airport.,这家酒店离机场太远了。
+75,forward,ˈfɔːwəd,向前，前进,OPERATIONS,I am moving forward with my plans.,我正在按照计划前进。,We need to move forward andfind a solution.,我们需要向前并找到解决办法。
+76,here,hɪə,这里，这儿,OPERATIONS,I am here to help you.,我在这里帮助你。,The book you are looking for is here.,你要找的书在这儿。
+77,near,nɪə,附近，靠近,OPERATIONS,There is a park near my house.,我的房子附近有一个公园。,The restaurant is near the movie theater.,餐厅靠近电影院。
+78,now,naʊ,现在，此刻,OPERATIONS,I am busy right now.,我现在很忙。,Can you come now?,你现在能来吗？
+79,out,aʊt,出去，外面,OPERATIONS,I am going out to get some fresh air.,我要出去呼吸新鲜空气。,He is out of the office right now.,他现在不在办公室。
+80,still,stɪl,还是，仍然,OPERATIONS,I am still waiting for her.,我还在等她。,He is still studying for theexam.,他仍在为考试而学习。
+81,then,ðɛn,然后，那么,OPERATIONS,I will go to the store and then to the bank.,我会先去商店再去银行。,"If you don't like it, then leave.",如果你不喜欢，那就走吧。
+82,there,ðɛə,那里，那儿,OPERATIONS,The party is over there.,聚会在那边。,I think I left my keys over there.,我想我把钥匙放在那儿了。
+83,together,təˈɡeðə,在一起，一起,OPERATIONS,Let's work together to solve this problem.,让我们一起解决这个问题。,We had a great time together.,我们在一起度过了美好的时光。
+84,well,wɛl,好，很好,OPERATIONS,"I am doing well, thank you.",我很好，谢谢。,"Well, I don't know what to do now.",好吧，我不知道现在该怎么办。
+85,almost,ˈɔːlməʊst,几乎，差不多,OPERATIONS,I almost forgot my keys.,我差点忘了我的钥匙。,He is almost finished with his project.,他的项目差不多完成了。
+86,enough,ɪˈnʌf,足够，充足,OPERATIONS,I have had enough of this.,我已经受够了这个。,Do we have enough time to finish the project?,我们有足够的时间完成这个项目吗？
+87,even,ˈiːvən,甚至，连,OPERATIONS,I can't even imagine how hard it must be.,我甚至无法想象它有多难。,She didn't even say goodbye.,她甚至没有说再见。
+88,not,nɒt,不，没有,OPERATIONS,I am not going to the party.,我不去参加聚会。,She is not happy with her job.,她对自己的工作不满意。
+89,only,ˈəʊnli,只有，仅仅,OPERATIONS,I only have one dollar left.,我只剩下一美元。,She is the only person I trust.,她是我唯一信任的人。
+90,quite,kwaɪt,相当，非常,OPERATIONS,The movie was quite good.,这部电影相当好看。,I am quite sure he will come.,我非常确定他会来。
+91,so,səʊ,如此，非常,OPERATIONS,I am so happy to see you.,我非常高兴见到你。,The weather is so nice today.,今天的天气非常好。
+92,very,ˈvɛri,非常，十分,OPERATIONS,I am very tired.,我非常累。,She is a very talented musician.,她是一个非常有才华的音乐家。
+93,tomorrow,təˈmɒrəʊ,明天,OPERATIONS,I have an appointment tomorrow.,我明天有一个约会。,We can talk more tomorrow.,我们可以明天再多聊。
+94,yesterday,ˈjɛstədeɪ,昨天,OPERATIONS,I saw him yesterday at the store.,我昨天在商店里见到了他。,Yesterday was abeautiful day.,昨天是一个美好的一天。
+95,north,nɔːθ,北方,OPERATIONS,The city is located to the north of here.,这个城市位于这里的北部。,The wind is blowing from the north.,风从北面吹来。
+96,south,saʊθ,南方,OPERATIONS,I am going to the beach in the south.,我要去南方的海滩。,The sun sets in the south during the winter.,冬天太阳在南边落山。
+97,east,iːst,东方,OPERATIONS,The sun rises in the east.,太阳从东边升起。,The city is located to the east of the mountains.,这个城市位于山的东边。
+98,west,wɛst,西方,OPERATIONS,The sun sets in the west.,太阳从西边落山。,The city is located to the west of the river.,这个城市位于河的西边。
+99,please,pliːz,请，喜欢,OPERATIONS,Can you please help me?,你能帮我一下吗？,Please don't leaveme here alone.,请不要把我一个人留下。
+100,yes,jɛs,是，对，是的,OPERATIONS,"Yes, I would like some water please.",是的，我想要一些水。,"Do you want to come with me? - Yes, I do.",你想和我一起去吗？- 是的，我想去。
+id,word,pronunciation,translation,classification,sentence1,sentence1Trans,sentence2,sentence2Trans
+1,account,əˈkaʊnt,账户,OPERATIONS,I need to check my bank account.,我需要检查一下我的银行账户。,He gave a detailed account of the incident.,他详细描述了那个事件。
+2,act,ækt,行为,OPERATIONS,She acted in a play last night.,昨晚她参演了一出戏。,We need to act quickly to solve the problem.,我们需要迅速行动来解决问题。
+3,addition,əˈdɪʃ(ə)n,加法,OPERATIONS,In addition to English, she speaks French and Spanish.,除了英语，她还会说法语和西班牙语。,We made an addition to the team.,我们对团队进行了补充。
+4,adjustment,əˈdʒʌstmənt,调整,OPERATIONS,He made some adjustments to the settings.,他对设置进行了一些调整。,She needs time to make the necessary adjustments.,她需要时间进行必要的调整。
+5,advertisement,ˌædvərˈtaɪzmənt,广告,COMMUNICATIONS,I saw an advertisement for a new smartphone.,我看到了一则新款智能手机的广告。,They placed an advertisement in the local newspaper.,他们在当地报纸上登了一则广告。
+6,agreement,əˈɡriːmənt,协议,OPERATIONS,They reached an agreement on the terms of the contract.,他们就合同条款达成了一致。,We need to come to an agreement before moving forward.,在继续之前，我们需要达成一致。
+7,air,eər,空气,ENVIRONMENT,The air in the room feels stuffy.,房间里的空气感觉闷热。,She opened the windows to let in fresh air.,她打开窗户让新鲜空气进来。
+8,amount,əˈmaʊnt,数量,OPERATIONS,The total amount due is $1000.,应付的总金额是1000美元。,Please pay the full amount by the end of the month.,请在月底前支付全额款项。
+9,amusement,əˈmjuːzmənt,娱乐,ENTERTAINMENT,The park offers a variety of amusements for children.,这个公园为孩子们提供各种娱乐设施。,We went to the amusement park and rode the roller coaster.,我们去了游乐园，坐了过山车。
+10,animal,ˈænɪməl,动物,SCIENCE,She loves all kinds of animals, especially dogs.,她喜欢各种动物，尤其是狗。,The zoo is home to a wide variety of animals.,动物园里有各种各样的动物。
+11,answer,ˈɑːnsər,回答,COMMUNICATIONS,Can you answer the phone, please?,请接电话好吗？,He couldn't answer the question correctly.,他不能正确回答这个问题。
+12,apparatus,ˌæpəˈreɪtəs,装置,SCIENCE,The laboratory is equipped with the latest scientific apparatus.,实验室配备了最新的科学装置。,The firefighters used specialized apparatus to control the fire.,消防员使用专门装置来控制火势。
+13,approval,əˈpruːvl,批准,OPERATIONS,Her proposal received unanimous approval from the committee.,她的提案得到了委员会的一致批准。,We need your approval before proceeding with the project.,在进行项目之前，我们需要您的批准。
+14,argument,ˈɑːrɡjumənt,争论,COMMUNICATIONS,They had a heated argument about politics.,他们就政治问题展开了激烈的争论。,I don't want to get into an argument with you.,我不想与你争论。
+15,art,ɑːrt,艺术,ARTS,She studied art at university and became a painter.,她在大学学习艺术并成为一名画家。,The museum has a large collection of contemporary art.,博物馆收藏着大量的当代艺术品。
+16,attack,əˈtæk,攻击,OPERATIONS,The army launched a surprise attack on the enemy.,军队对敌人发起了突然袭击。,She defended herself against the attacker.,她保护自己免受攻击者的伤害。
+17,attempt,əˈtɛmpt,尝试,OPERATIONS,He made an attempt to climb Mount Everest.,他试图攀登珠穆朗玛峰。,I will attempt to solve the problem on my own.,我将试图独自解决这个问题。
+18,attention,əˈtɛnʃ(ə)n,注意力,MENTAL PROCESSES,Pay attention to what the teacher is saying.,注意听老师说话。,She drew everyone's attention with her performance.,她的表演吸引了所有人的注意力。
+19,attraction,əˈtrækʃ(ə)n,吸引力,MENTAL PROCESSES,The city's main attraction is its historic buildings.,这座城市的主要吸引力在于其历史建筑。,The amusement park is a popular tourist attraction.,游乐园是一个受欢迎的旅游景点。
+20,authority,ɔːˈθɒrəti,权威,OPERATIONS,She has the authority to make decisions on behalf of the company.,她有权代表公司做出决策。,The police have the authority to enforce the law.,警察有权执行法律。
+id,word,pronunciation,translation,classification,sentence1,sentence1Trans,sentence2,sentence2Trans
+21,back,bæk,背部,ANATOMY,My back hurts after sitting for too long.,坐太久后，我的背很痛。,He carries a backpack wherever he goes.,无论他去哪里，他都带着背包。
+22,balance,ˈbæləns,平衡,OPERATIONS,She struggles to maintain a balance between work and family.,她努力维持工作和家庭之间的平衡。,You should check your bank balance before making a purchase.,在购买之前，你应该检查一下你的银行余额。
+23,base,beɪs,基础,CONCEPTS,We need to establish a solid base for our project.,我们需要为我们的项目建立一个坚实的基础。,The company's headquarters is located in the home base.,公司的总部位于总基地。
+24,behavior,bɪˈheɪvjər,行为,CONCEPTS,His behavior at the party was unacceptable.,他在聚会上的行为是不可接受的。,The teacher praised the student for his good behavior in class.,老师表扬了这位学生在课堂上的良好行为。
+25,belief,bɪˈliːf,信念,MENTAL PROCESSES,Her belief in herself gave her the confidence to succeed.,她对自己的信念给了她成功的信心。,Different cultures have different beliefs about the afterlife.,不同的文化对来世有不同的信念。
+26,birth,bɜːrθ,出生,EVENTS,She gave birth to a healthy baby girl.,她生了一个健康的女婴。,The birth rate has been declining in recent years.,近年来，出生率一直在下降。
+27,bit,bɪt,一点,QUANTITY,Can I have a bit of chocolate?,我可以吃一点巧克力吗？,He knows a little bit about computers.,他对计算机有一点了解。
+28,bite,baɪt,咬,VERBS,The dog bit me on the leg.,狗咬了我一口腿。,Be careful, the soup is hot. Don't burn your tongue when you take a bite.,小心点，汤很烫。吃的时候别把舌头烫伤了。
+29,blood,blʌd,血液,ANATOMY,The doctor took a sample of my blood for testing.,医生取了一点我的血液进行检测。,Family ties are often described as "blood relations.",家庭关系通常被称为“血缘关系”。
+30,blow,bləʊ,吹,VERBS,The wind is blowing strongly today.,今天风很大。,She blew out the candles on her birthday cake.,她吹灭了生日蛋糕上的蜡烛。
+31,body,ˈbɒdi,身体,ANATOMY,Regular exercise is good for the body.,定期锻炼对身体有好处。,He was found lying on the ground with his body covered in bruises.,他被发现躺在地上，全身青一块紫一块。
+32,brass,bræs,黄铜,MATERIALS,The doorknob is made of brass.,门把手是黄铜制成的。,The band was composed of trumpet, trombone, and other brass instruments.,这支乐队由小号、长号和其他铜管乐器组成。
+33,bread,bred,面包,FOOD,I bought a loaf of bread from the bakery.,我从面包店买了一条面包。,She toasted the bread and spread butter on it.,她把面包烤了，涂上了黄油。
+34,breath,breθ,呼吸,ANATOMY,Take a deep breath and relax.,深呼吸并放松。,He was out of breath after running for miles.,跑了几英里后，他上气不接下气。
+35,brother,ˈbrʌðər,兄弟,RELATIONSHIPS,My brother is two years older than me.,我哥哥比我大两岁。,They have a close bond as brothers.,作为兄弟，他们有着紧密的联系。
+36,building,ˈbɪldɪŋ,建筑物,PLACES,The new building will be completed next year.,新楼将于明年完工。,The museum is an impressive building with modern architecture.,博物馆是一座现代建筑风格的宏伟建筑。
+37,burn,bɜːrn,燃烧,VERBS,The fire burned for hours before it was extinguished.,大火在被扑灭前燃烧了几个小时。,He burned his hand on the hot stove.,他在热炉子上烫伤了手。
+38,burst,bɜːrst,爆炸,VERBS,The balloon burst when it touched the sharp edge.,气球触碰到尖锐的物体时破裂了。,The dam burst and flooded the nearby town.,水坝决口，淹没了附近的城镇。
+39,business,ˈbɪznɪs,业务,OPERATIONS,He owns a small business in the city.,他在城里经营着一家小企业。,They discussed the details of the business proposal.,他们讨论了业务提案的细节。
+40,butter,ˈbʌtər,黄油,FOOD,Would you like butter on your toast?,你的吐司上要涂黄油吗？,She spread butter on the bread and ate it.,她在面包上涂上黄油然后吃掉了。
+41,canvas,ˈkænvəs,帆布,MATERIALS,He painted a beautiful landscape on canvas.,他在画布上绘制了一幅美丽的风景画。,The artist stretched the canvas on a wooden frame.,艺术家在木框架上拉紧了画布。
+42,care,keər,关心,CONCEPTS,She took care of her sick grandmother.,她照顾她生病的奶奶。,Please handle the fragile items with care.,请小心处理易碎物品。
+43,cause,kɔːz,原因,CONCEPTS,The heavy rain caused the flooding in the area.,大雨导致了该地区的洪水。,Smoking is a leading cause of lung cancer.,吸烟是肺癌的主要原因。
+44,chalk,tʃɔːk,粉笔,TOOLS,The teacher wrote on the blackboard with chalk.,老师用粉笔在黑板上写字。,He used a piece of chalk to mark the important points on the board.,他用一块粉笔在板子上标记了重要的地方。
+45,chance,tʃæns,机会,CONCEPTS,She took a chance and applied for the job.,她冒险申请了这份工作。,There's a chance of rain later in the day.,今天晚些时候有可能下雨。
+46,change,tʃeɪndʒ,改变,VERBS,She decided to change her hairstyle.,她决定改变她的发型。,Can you give me change for a dollar?,你能给我一美元的零钱吗？
+47,cloth,klɒθ,布料,MATERIALS,She sewed a dress using a piece of cloth.,她用一块布料缝制了一件连衣裙。,The tablecloth is made of linen.,桌布是用亚麻布制成的。
+id,word,pronunciation,translation,classification,sentence1,sentence1Trans,sentence2,sentence2Trans
+101,coal,koʊl,煤炭,MATERIALS,The power plant burns coal to generate electricity.,发电厂燃烧煤炭产生电力。,The miners extracted coal from the underground mine.,矿工从地下矿井开采煤炭。
+102,color,ˈkʌlər,颜色,CONCEPTS,She painted the walls of her room with a bright color.,她用明亮的颜色给她的房间刷墙。,I love the vibrant colors of autumn leaves.,我喜欢秋叶的鲜艳色彩。
+103,comfort,ˈkʌmfərt,舒适,CONCEPTS,The soft cushion provided comfort for her tired feet.,柔软的垫子给她疲惫的脚提供了舒适。,He found comfort in the warm embrace of his loved ones.,他在亲人们温暖的拥抱中找到了慰藉。
+104,committee,kəˈmɪti,委员会,ORGANIZATIONS,The committee is responsible for reviewing grant applications.,委员会负责审查资助申请。,The committee members held a meeting to discuss the agenda.,委员会成员开了一个会议讨论议程。
+105,company,ˈkʌmpəni,公司,ORGANIZATIONS,He works for a multinational company.,他在一家跨国公司工作。,The company is known for its innovative products and services.,这家公司以其创新的产品和服务而闻名。
+106,comparison,kəmˈpærɪsn,比较,CONCEPTS,The chart provides a detailed comparison of the two products.,这个图表提供了这两个产品的详细比较。,The student wrote an essay on the comparison between two novels.,这位学生写了一篇关于两部小说比较的文章。
+107,competition,kɑːmpɪˈtɪʃn,竞争,CONCEPTS,The athletes are preparing for the upcoming competition.,运动员们正在为即将到来的比赛做准备。,The company faced tough competition from its rivals in the market.,该公司在市场上面临来自竞争对手的激烈竞争。
+108,condition,kənˈdɪʃn,条件,CONCEPTS,The car is in excellent condition.,这辆车处于良好的状态。,He agreed to the terms and conditions of the contract.,他同意合同的条款和条件。
+109,connection,kəˈnɛkʃn,连接,CONCEPTS,The internet connection is very slow in this area.,这个地区的互联网连接非常慢。,She has a close connection with her childhood friend.,她与她的童年朋友有着紧密的联系。
+110,control,kənˈtroʊl,控制,VERBS,He tried to control his anger.,他试图控制自己的愤怒。,The remote control allows you to change channels on the TV.,遥控器可以让你在电视上换台。
+111,cook,kʊk,烹饪,VERBS,She loves to cook and experiment with new recipes.,她喜欢做饭和尝试新的食谱。,He learned how to cook from his grandmother.,他从他的祖母那里学会了烹饪。
+112,copper,ˈkɑːpər,铜,MATERIALS,The statue was made of solid copper.,这座雕像是由实心铜制成的。,Copper wires are commonly used in electrical installations.,铜线在电气安装中常被使用。
+113,copy,ˈkɒpi,复制,VERBS,She made a copy of the document for her records.,她复制了该文件以备查档。,He copied the text from the book onto a piece of paper.,他将书上的文字复制到了一张纸上。
+114,cork,kɔːrk,软木,MATERIALS,The wine bottle was sealed with a cork.,葡萄酒瓶用软木塞封好了。,She used a cork to stopper the test tube.,她用软木塞堵住了试管。
+115,cotton,ˈkɒtn,棉花,MATERIALS,The T-shirt is made of soft cotton.,这件T恤是由柔软的棉花制成的。,They grow cotton on their farm.,他们在农场种植棉花。
+116,cough,kɔːf,咳嗽,VERBS,He has a persistent cough.,他一直在咳嗽。,She covered her mouth when she coughed.,她咳嗽时捂住了嘴。
+117,country,ˈkʌntri,国家,PLACES,He was born in a small country village.,他出生在一个小乡村。,She loves to travel and explore different countries.,她喜欢旅行并探索不同的国家。
+118,cover,ˈkʌvər,覆盖,VERBS,Please cover the pot with a lid while cooking.,煮菜时请用盖子盖住锅。,The book has a beautiful cover with a captivating design.,这本书有着漂亮的封面和迷人的设计。
+119,crack,kræk,裂缝,CONCEPTS,There is a crack in the window.,窗户上有个裂缝。,He cracked the eggs into a bowl and whisked them.,他把鸡蛋打入碗里并搅拌均匀。
+120,credit,ˈkrɛdɪt,信用,CONCEPTS,She has a good credit score.,她的信用评分很好。,He used his credit card to pay for the purchase.,他使用信用卡支付购买费用。
+121,crime,kraɪm,犯罪,CONCEPTS,The police are investigating the crime.,警方正在调查这起犯罪案件。,He was charged with a serious crime.,他被控犯了一项严重的罪行。
+122,crush,krʌʃ,压碎,VERBS,She accidentally crushed the glass with her hand.,她不小心用手压碎了玻璃。,The crowd rushed forward, threatening to crush the barriers.,人群向前涌去，有可能压垮障碍物。
+123,cry,kraɪ,哭泣,VERBS,The baby started to cry.,婴儿开始哭泣。,She couldn't help but cry when she heard the sad news.,听到这个悲伤的消息，她忍不住哭了起来。
+124,current,ˈkɜːrənt,电流,CONCEPTS,Be careful not to touch the electrical current.,小心不要触摸电流。,The boat was carried away by the strong current.,小船被强流带走了。
+125,curve,kɜːrv,曲线,CONCEPTS,The road has a sharp curve ahead.,前方的道路有一个急转弯。,He drew a smooth curve on the graph.,他在图表上画了一条平滑的曲线。
+126,damage,ˈdæmɪdʒ,损坏,VERBS,The storm caused extensive damage to the buildings.,风暴给建筑物造成了严重的损坏。,Please be careful not to damage the fragile items.,请小心不要损坏易碎物品。
+127,danger,ˈdeɪndʒər,危险,CONCEPTS,The sign warned of the danger of falling rocks.,标牌警示着有落石的危险。,He put himself in danger to save others.,他冒着危险去救别人。
+128,daughter,ˈdɔːtər,女儿,RELATIONSHIPS,Her daughter is studying abroad.,她的女儿正在国外留学。,He loves spending time with his daughter.,他喜欢和他的女儿一起度过时间。
+129,day,deɪ,天,TIME,She goes for a walk every day.,她每天都去散步。,They spent the whole day at the beach.,他们在海滩度过了一整天的时间。
+130,death,deθ,死亡,CONCEPTS,He mourned the death of his beloved pet.,他哀悼他心爱的宠物的死亡。,The news of her father's death was devastating.,她父亲去世的消息让她痛苦不堪。
+131,debt,dɛt,债务,CONCEPTS,He is struggling to pay off his debts.,他正在努力偿还债务。,She borrowed money to pay off her student loan debt.,她借钱还清了她的学生贷款债务。
+132,decision,dɪˈsɪʒn,决定,CONCEPTS,They made the decision to move to a new city.,他们决定搬到一个新城市。,He couldn't make a decision without considering all the facts.,他不能在不考虑所有事实的情况下做出决定。
+133,degree,dɪˈɡriː,学位,CONCEPTS,She earned a bachelor's degree in psychology.,她获得了心理学学士学位。,He pursued a master's degree in business administration.,他攻读了工商管理硕士学位。
+134,design,dɪˈzaɪn,设计,CONCEPTS,She is a talented graphic designer.,她是一位有才华的平面设计师。,The architect drew up the design for the new building.,建筑师为新楼设计了图纸。
+135,desire,dɪˈzaɪər,愿望,CONCEPTS,He has a strong desire to travel the world.,他有强烈的愿望周游世界。,She expressed her desire to learn a new language.,她表达了她学习新语言的愿望。
+136,destruction,dɪˈstrʌkʃn,破坏,CONCEPTS,The earthquake caused widespread destruction.,地震造成了广泛的破坏。,The fire resulted in the destruction of the entire building.,火灾导致整个建筑物的毁灭。
+137,detail,ˈdiːteɪl,细节,CONCEPTS,He described the incident in great detail.,他详细描述了这起事件。,She paid close attention to every detail of the painting.,她注意到了绘画的每一个细节。
+138,development,dɪˈvɛləpmənt,发展,CONCEPTS,The city has undergone rapid development in recent years.,这个城市近年来经历了快速发展。,The company invests heavily in research and development.,该公司在研发方面投入了大量资金。
+139,digestion,dɪˈdʒɛstʃn,消化,CONCEPTS,Good nutrition is essential for healthy digestion.,良好的营养对健康的消化至关重要。,The process of digestion begins in the mouth.,消化的过程始于口腔。
+140,direction,dɪˈrɛkʃn,方向,CONCEPTS,She asked for directions to the nearest post office.,她问了去最近的邮局的路。,He followed the directions on the map to reach his destination.,他按照地图上的方向走到了目的地。
+141,discovery,dɪsˈkʌvəri,发现,CONCEPTS,The scientist made a groundbreaking discovery.,这位科学家做出了开创性的发现。,She was excited by the discovery of a rare species of flower.,她对发现了一种罕见的花卉感到兴奋。
+142,discussion,dɪˈskʌʃn,讨论,CONCEPTS,They had a heated discussion about politics.,他们就政治问题展开了激烈的讨论。,The teacher led a class discussion on the topic of climate change.,老师主持了一个关于气候变化主题的班级讨论。
+143,disease,dɪˈziːz,疾病,CONCEPTS,She was diagnosed with a rare disease.,她被诊断出患有一种罕见的疾病。,Prevention is key in controlling the spread of infectious diseases.,预防是控制传染病传播的关键。
+144,disgust,dɪsˈɡʌst,厌恶,VERBS,The sight of the dead animal filled him with disgust.,看到死去的动物，他感到厌恶。,She was disgusted by the dirty and unsanitary conditions.,她对脏乱不卫生的环境感到厌恶。
+145,distance,ˈdɪstəns,距离,CONCEPTS,The distance between the two cities is 200 kilometers.,这两个城市的距离是200公里。,He ran the marathon and covered a distance of 42 kilometers.,他跑完马拉松，跑了42公里的距离。
+146,distribution,ˌdɪstrɪˈbjuːʃn,分布,CONCEPTS,The distribution of wealth is uneven in society.,财富在社会中分布不均。,The company has a wide distribution network across the country.,该公司在全国范围内有广泛的销售网络。
+147,division,dɪˈvɪʒn,分割,CONCEPTS,He used a ruler to mark the division between the two sections.,他用尺子标出了两个部分之间的分割线。,The project team was organized into different divisions.,项目团队被组织成不同的分工部门。
+148,doubt,daʊt,怀疑,VERBS,She doubted his ability to complete the task.,她怀疑他完成任务的能力。,He had no doubt that he would succeed.,他毫不怀疑他会成功。
+149,drink,drɪŋk,饮料,VERBS,He likes to drink coffee in the morning.,他喜欢早上喝咖啡。,She offered him a drink of water.,她给他递了一杯水。
+150,driving,ˈdraɪvɪŋ,驾驶,VERBS,He is learning to drive a car.,他正在学习开车。,She was charged with drunk driving.,她被控酒后驾车。
+151,dust,dʌst,灰尘,CONCEPTS,She wiped the dust off the shelf.,她擦掉了货架上的灰尘。,The old book was covered in dust.,这本旧书上沾满了灰尘。
+152,earth,ɜːrθ,地球,CONCEPTS,The Earth orbits around the sun.,地球围绕太阳运转。,She studied the Earth's ecosystems in her science class.,她在科学课上学习地球的生态系统。
+153,edge,ɛdʒ,边缘,CONCEPTS,She walked along the edge of the cliff.,她沿着悬崖边走。,The table had a sharp edge that could cut if not careful.,桌子有一个锋利的边缘，如果不小心会划伤。
+154,education,ˌɛdʒʊˈkeɪʃn,教育,CONCEPTS,She received a quality education at a prestigious university.,她在一所名牌大学接受了优质的教育。,He believes that education is the key to a better future.,他认为教育是通向更美好未来的关键。
+155,effect,ɪˈfɛkt,效果,CONCEPTS,The medication had a positive effect on her health.,这种药物对她的健康有积极的影响。,The new policy had unintended negative effects on the economy.,新政策对经济产生了意想不到的负面影响。
+156,end,ɛnd,结束,CONCEPTS,They reached the end of the road.,他们到达了路的尽头。,The concert marked the end of their tour.,音乐会标志着他们巡演的结束。
+157,error,ˈɛrər,错误,CONCEPTS,She realized that she had made an error in her calculations.,她意识到她在计算中犯了个错误。,The error in the report was quickly corrected.,报告中的错误很快被纠正了。
+158,event,ɪˈvɛnt,事件,CONCEPTS,The wedding was a memorable event.,这个婚礼是一个令人难忘的事件。,He participated in a charity event to raise funds for a good cause.,他参加了一场慈善活动为一个善事筹集资金。
+159,example,ɪɡˈzæmpl,例子,CONCEPTS,He gave an example to illustrate his point.,他举例说明他的观点。,She set a good example for her younger siblings.,她为她的年幼兄弟姐妹树立了一个好榜样。
+160,exchange,ɪksˈtʃeɪndʒ,交流,VERBS,They exchanged ideas during the meeting.,他们在会议期间交换了意见。,She exchanged her euros for dollars at the bank.,她在银行兑换了欧元成美元。
+161,existence,ɪɡˈzɪstəns,存在,CONCEPTS,The existence of life on other planets is still a topic of debate.,其他行星上的生命存在仍然是一个有争议的话题。,She questioned the meaning of her own existence.,她对自己的存在意义产生了质疑。
+162,expansion,ɪkˈspænʃn,扩展,CONCEPTS,The company is planning an expansion into international markets.,该公司计划进军国际市场。,The city has seen rapid population growth and urban expansion.,这个城市经历了快速的人口增长和城市扩张。
+163,experience,ɪkˈspɪəriəns,经历,CONCEPTS,She gained valuable experience working in a busy restaurant.,在一家繁忙的餐馆工作使她积累了宝贵的经验。,He had a traumatic experience during his time in the military.,在军队期间他经历了一次创伤性的经历。
+164,expert,ˈɛkspɜːrt,专家,CONCEPTS,He is recognized as an expert in his field.,他被公认为是他所在领域的专家。,She consulted with an expert before making a decision.,在做出决定之前她请教了一位专家。
+165,fact,fækt,事实,CONCEPTS,The fact that he lied made it difficult to trust him.,他撒谎的事实使得很难信任他。,She presented the facts to support her argument.,她提供了事实来支持她的论点。
+166,fall,fɔːl,秋天,CONCEPTS,The leaves fall from the trees in autumn.,树叶在秋天从树上落下。,He slipped and fell on the icy pavement.,他在结冰的人行道上滑倒摔倒了。
+167,family,ˈfæməli,家庭,CONCEPTS,She comes from a large family with five siblings.,她来自一个有五个兄弟姐妹的大家庭。,He considers his friends to be his chosen family.,他认为他的朋友是他选择的家人。
+168,father,ˈfɑːðər,父亲,CONCEPTS,Her father taught her how to ride a bike.,她父亲教她骑自行车。,He looks up to his father as a role model.,他以父亲为榜样。
+169,fear,fɪər,恐惧,VERBS,She has a fear of heights.,她害怕高处。,He fears that he will fail the exam.,他担心他会考试失败。
+170,feeling,ˈfiːlɪŋ,感觉,CONCEPTS,She had a strange feeling that something was wrong.,她有一种奇怪的感觉，觉得有些不对劲。,He couldn't shake the feeling of unease.,他无法摆脱不安的感觉。
+171,fiction,ˈfɪkʃn,小说,CONCEPTS,She enjoys reading science fiction novels.,她喜欢阅读科幻小说。,He is working on his first piece of fiction.,他正在创作他的第一部小说。
+172,field,fiːld,领域,CONCEPTS,She works in the field of medicine.,她从事医学领域的工作。,He has extensive knowledge in the field of technology.,他在技术领域有丰富的知识。
+173,fight,faɪt,战斗,VERBS,They fought against injustice.,他们与不公正进行斗争。,He got into a fight with his neighbor.,他与邻居发生了争执。
+174,fire,ˈfaɪər,火,CONCEPTS,They gathered around the campfire.,他们围在篝火旁。,The fire spread rapidly through the building.,火势迅速蔓延到整个建筑物中。
+175,flame,fleɪm,火焰,CONCEPTS,The candle flame flickered in the breeze.,蜡烛的火焰在微风中摇曳。,He used a match to light the flame on the gas stove.,他用火柴点燃了燃气炉上的火焰。
+176,flight,flaɪt,飞行,CONCEPTS,She booked a flight to Paris.,她预订了去巴黎的航班。,The bird took off in flight.,鸟儿展翅飞起。
+177,flower,ˈflaʊər,花,CONCEPTS,The garden was filled with beautiful flowers.,花园里开满了美丽的花朵。,He gave her a bouquet of flowers for her birthday.,他给了她一束花作为生日礼物。
+178,fold,foʊld,折叠,VERBS,She folded the paper into a neat square.,她将纸折叠成一个整齐的正方形。,He carefully folded his clothes and placed them in the suitcase.,他小心地将衣服折叠起来放进了行李箱。
+179,food,fuːd,食物,CONCEPTS,She prepared a delicious meal with fresh food.,她用新鲜食材准备了一顿美味的饭菜。,He bought some groceries and stocked up on food for the week.,他购买了一些杂货，为这一周备足了食物。
+180,force,fɔːrs,力量,CONCEPTS,He used all his force to open the stuck door.,他用尽全力打开卡住的门。,The police used force to control the crowd.,警察使用武力控制了人群。
+181,form,fɔːrm,形式,CONCEPTS,She filled out a form to apply for a job.,她填写了一份申请工作的表格。,He expressed his ideas in written form.,他以书面形式表达了自己的思想。
+182,friend,frend,朋友,CONCEPTS,She has been friends with him since they were children.,她和他自从小孩子的时候就是朋友。,He enjoys spending time with his friends.,他喜欢和朋友们一起度过时间。
+183,front,frʌnt,前面,CONCEPTS,She stood at the front of the line.,她站在队伍的前面。,He sat in the front row of the theater.,他坐在剧院的前排。
+184,fruit,fruːt,水果,CONCEPTS,She enjoyed a refreshing fruit salad on a hot day.,在炎热的天气里，她喜欢吃清爽的水果沙拉。,He picked an apple from the tree and took a bite of the juicy fruit.,他从树上摘了一个苹果，咬了一口多汁的水果。
+185,glass,ɡlæs,玻璃,CONCEPTS,She drank water from a glass.,她喝水用玻璃杯。,The window was made of transparent glass.,窗户是用透明玻璃制成的。
+186,gold,ɡoʊld,黄金,CONCEPTS,She wore a necklace made of gold.,她戴着一条金项链。,The Olympic athletes compete for gold medals.,奥运会运动员争夺金牌。
+187,government,ˈɡʌvərnmənt,政府,CONCEPTS,The government passed new legislation to protect the environment.,政府通过了新的立法以保护环境。,He works for the government in the Department of Education.,他在政府的教育部门工作。
+188,grain,ɡreɪn,谷物,CONCEPTS,She bought a bag of rice grains.,她买了一袋米粒。,The farmer harvested the wheat grain from the field.,农民从田地里收割了小麦谷物。
+189,grass,ɡræs,草,CONCEPTS,She lay down on the grass and looked up at the sky.,她躺在草地上，仰望着天空。,The lawn was covered in lush green grass.,草坪上长满了翠绿的草。
+190,grip,ɡrɪp,握紧,VERBS,She gripped the handle tightly.,她紧紧地握住把手。,He lost his grip and dropped the fragile vase.,他握力不稳，摔落了易碎的花瓶。
+191,group,ɡruːp,团体,CONCEPTS,They formed a study group to prepare for the exam.,他们组成了一个学习小组来准备考试。,He belongs to a political group that advocates for change.,他属于一个主张变革的政治团体。
+192,growth,ɡroʊθ,增长,CONCEPTS,The city has experienced rapid growth in recent years.,这个城市近年来经历了快速增长。,She observed the growth of the plants in her garden.,她观察着自己花园里植物的生长。
+193,guide,ɡaɪd,指南,VERBS,She guided the tourists through the museum.,她带领游客参观博物馆。,He used a map to guide him through the unfamiliar city.,他使用地图指引自己穿越陌生的城市。
+194,harbor,ˈhɑːrbər,港口,CONCEPTS,The boats were docked in the harbor.,船只停靠在港口。,The harbor was filled with activity as ships unloaded their cargo.,港口里一片繁忙，船只卸下货物。
+195,harmony,ˈhɑːrməni,和谐,CONCEPTS,The music was a perfect harmony of sounds.,音乐是完美的声音和谐。,They lived in harmony with nature.,他们与自然和谐共处。
+196,hate,heɪt,憎恨,VERBS,She hated the way he treated her.,她讨厌他对待她的方式。,He hated the taste of olives and refused to eat them.,他讨厌橄榄的味道，拒绝吃它们。
+197,hearing,ˈhɪrɪŋ,听力,CONCEPTS,She had a hearing impairment and wore hearing aids.,她听力有问题，戴着助听器。,He noticed a loss of hearing in his left ear.,他注意到左耳听力下降。
+198,heat,hiːt,热,CONCEPTS,She turned up the heat in the room.,她把房间里的暖气打开了。,The heat of the sun made it difficult to concentrate.,太阳的炎热使得很难集中注意力。
+199,help,help,帮助,VERBS,She helped her friend with her homework.,她帮助她的朋友做作业。,He called a plumber to help fix the leaking faucet.,他叫了一个管道工人来帮助修理漏水的水龙头。
+200,history,ˈhɪstəri,历史,CONCEPTS,She studied ancient history in college.,她在大学里学习了古代历史。,He was fascinated by the history of ancient civilizations.,他对古代文明的历史感到着迷。
+201,hole,hoʊl,洞,CONCEPTS,She fell into a deep hole in the ground.,她掉进了一个深深的地洞。,He dug a hole in the garden to plant a tree.,他在花园里挖了一个坑来种树。
+202,hope,hoʊp,希望,CONCEPTS,She never lost hope that things would get better.,她从未失去对事情会变好的希望。,He hoped to achieve his dreams through hard work and perseverance.,他希望通过努力和毅力实现自己的梦想。
+203,hour,aʊr,小时,CONCEPTS,She waited for him for over an hour.,她等了他一个多小时。,He spent several hours studying for the exam.,他花了几个小时准备考试。
+204,humor,ˈhjuːmər,幽默,CONCEPTS,She appreciated his sense of humor.,她欣赏他的幽默感。,He used humor to lighten the mood in tense situations.,他用幽默来缓和紧张的氛围。
+205,ice,aɪs,冰,CONCEPTS,She put some ice cubes in her drink to cool it.,她放了几块冰块在她的饮料里降温。,He slipped on the ice and fell on the ground.,他在冰上滑倒，摔倒在地。
+206,idea,aɪˈdiə,想法,CONCEPTS,She came up with a brilliant idea to solve the problem.,她想出了一个解决问题的绝妙主意。,He shared his idea with the team during the brainstorming session.,他在头脑风暴会议上与团队分享了自己的想法。
+207,impulse,ˈɪmpʌls,冲动,CONCEPTS,She acted on impulse and bought a new dress.,她冲动地买了一件新裙子。,He resisted the impulse to say something hurtful in the heat of the moment.,在激动的时刻，他抑制住了说出伤人的话的冲动。
+208,increase,ɪnˈkriːs,增加,VERBS,She tried to increase her savings by cutting expenses.,她试图通过削减开支来增加储蓄。,He implemented strategies to increase productivity in the workplace.,他实施了提高工作场所生产力的策略。
+209,industry,ˈɪndəstri,工业,CONCEPTS,She worked in the fashion industry as a designer.,她在时装行业担任设计师。,He studied the history of the automobile industry.,他研究汽车行业的历史。
+210,ink,ɪŋk,墨水,CONCEPTS,She spilled ink on her shirt while writing.,她写字时把墨水洒在了衬衫上。,He used a fountain pen with blue ink to sign the document.,他用一支带有蓝墨水的钢笔签署文件。
+211,insect,ˈɪnˌsekt,昆虫,CONCEPTS,She studied the behavior of insects in her biology class.,她在生物课上研究昆虫的行为。,He was bitten by a mosquito while camping in the forest.,他在森林露营时被蚊子叮咬了。
+212,instrument,ˈɪnstrəmənt,乐器,CONCEPTS,She played the piano as her instrument of choice.,她选择弹奏钢琴作为她的乐器。,He learned to play the guitar and became proficient in the instrument.,他学会了弹吉他，并且对这个乐器变得熟练。
+213,insurance,ɪnˈʃʊrəns,保险,CONCEPTS,She bought health insurance to cover medical expenses.,她购买了健康保险以支付医疗费用。,He had car insurance to protect against accidents and damage.,他有车险以保护自己免受事故和损坏的影响。
+214,interest,ˈɪntrəst,兴趣,CONCEPTS,She had a keen interest in photography.,她对摄影有浓厚的兴趣。,He developed an interest in astronomy after watching a documentary.,在观看纪录片后，他对天文学产生了兴趣。
+215,invention,ɪnˈvɛnʃən,发明,CONCEPTS,She patented her invention and became a successful entrepreneur.,她给自己的发明申请了专利，并成为了一名成功的企业家。,He admired the creativity behind the invention of the telephone.,他对电话的发明背后的创造力表示钦佩。
+216,iron,ˈaɪərn,铁,CONCEPTS,She used an iron to press her clothes.,她使用熨斗来烫衣服。,He collected antique irons as a hobby.,他以收集古董熨斗为爱好。
+217,jelly,ˈdʒɛli,果冻,CONCEPTS,She spread some jelly on her toast for breakfast.,她在烤面包上抹了一些果冻作为早餐。,He enjoyed a peanut butter and jelly sandwich for lunch.,他午餐吃了一份花生酱和果冻三明治。
+218,join,dʒɔɪn,加入,VERBS,She decided to join the basketball team.,她决定加入篮球队。,He invited her to join him for dinner.,他邀请她一起共进晚餐。
+219,journey,ˈdʒɜrni,旅程,CONCEPTS,She embarked on a long journey around the world.,她开始了一次环游世界的长途旅程。,He documented his journey through photographs and journal entries.,他通过照片和日记记录下了自己的旅程。
+220,judge,dʒʌdʒ,法官,CONCEPTS,She appeared before the judge in court.,她在法庭上出庭接受法官审判。,He respected the judge's decision and accepted the consequences.,他尊重法官的决定并接受后果。
+221,jump,dʒʌmp,跳跃,VERBS,She taught her dog to jump through hoops.,她教她的狗跳过圈圈。,He hesitated before taking the jump off the diving board.,他在跳水板上跳水之前犹豫了一下。
+222,kick,kɪk,踢,VERBS,She kicked the ball with all her strength.,她用全力踢了球。,He accidentally kicked the table and stubbed his toe.,他不小心踢到了桌子，撞伤了脚趾。
+223,kiss,kɪs,亲吻,VERBS,She kissed her baby goodnight before tucking him into bed.,她在把婴儿盖到床上之前亲吻了他晚安。,He leaned over and kissed her on the cheek.,他弯下腰亲吻了她的脸颊。
+224,knowledge,ˈnɑlɪdʒ,知识,CONCEPTS,She had extensive knowledge in the field of biology.,她在生物学领域有广泛的知识。,He acquired knowledge through years of studying and reading.,通过多年的学习和阅读，他获得了知识。
+225,land,lænd,土地,CONCEPTS,She dreamed of owning a piece of land in the countryside.,她梦想拥有一块乡村的土地。,He bought land and built a house on it.,他购买了土地并在上面建了一所房子。
+226,language,ˈlæŋɡwɪdʒ,语言,CONCEPTS,She studied French as a foreign language.,她学习法语作为外语。,He was fluent in multiple languages.,他精通多种语言。
+227,laugh,læf,笑,VERBS,She couldn't help but laugh at his funny joke.,她禁不住对他的搞笑笑话笑了起来。,He laughed out loud at the comedian's hilarious performance.,他对喜剧演员的滑稽表演大笑起来。
+228,law,lɔ,法律,CONCEPTS,She studied law at university and became a lawyer.,她在大学学习法律并成为了一名律师。,He was well-versed in the laws and regulations of the country.,他对该国的法律法规非常熟悉。
+229,lead,liːd,领导,VERBS,She was chosen to lead the project team.,她被选为项目团队的负责人。,He demonstrated strong leadership skills in his role as manager.,作为经理，他展现出了出色的领导才能。
+230,learning,ˈlɜrnɪŋ,学习,CONCEPTS,She believed in lifelong learning and never stopped acquiring new knowledge.,她相信终身学习，从不停止获取新的知识。,He enjoyed the process of learning and found it rewarding.,他喜欢学习的过程，觉得它很有意义。
+231,leather,ˈlɛðər,皮革,CONCEPTS,She bought a leather jacket as a fashion statement.,她买了一件皮夹克来展现时尚态度。,He polished his leather shoes to make them shine.,他擦亮皮鞋使其发光。
+232,letter,ˈlɛtər,信,CONCEPTS,She wrote a heartfelt letter to her best friend.,她给她最好的朋友写了一封衷心的信。,He received a letter in the mail from his grandparents.,他收到了一封来自祖父母的信件。
+233,level,ˈlɛvəl,水平,CONCEPTS,She reached a high level of proficiency in playing the violin.,她在拉小提琴方面达到了很高的水平。,He aimed to achieve a higher level of performance in his sport.,他力求在运动中取得更高的水平。
+234,lift,lɪft,抬起,VERBS,She asked for help to lift the heavy box.,她请求帮助来搬动沉重的箱子。,He used a crane to lift the construction materials to the top floor.,他用起重机把建筑材料吊到顶层。
+235,light,laɪt,光,CONCEPTS,She turned on the light to brighten the room.,她打开灯光照亮房间。,He admired the warm glow of the sunset as the light faded.,他欣赏着夕阳逐渐消失时温暖的光辉。
+236,limit,ˈlɪmɪt,限制,CONCEPTS,She pushed herself to the limit to complete the marathon.,她超越自己的极限完成了马拉松比赛。,He set a time limit for completing the task.,他为完成任务设定了一个时间限制。
+237,linen,ˈlɪnən,亚麻织品,CONCEPTS,She slept on linen sheets for a luxurious night's sleep.,她睡在亚麻织品的床单上，享受豪华的睡眠。,He wore a linen shirt to stay cool in the summer heat.,他穿着亚麻衬衫以在夏日的炎热中保持凉爽。
+238,liquid,ˈlɪkwɪd,液体,CONCEPTS,She spilled the liquid on the floor and quickly cleaned it up.,她把液体洒在地板上，然后迅速清理干净。,He drank a glass of cold liquid to quench his thirst.,他喝了一杯冷饮来解渴。
+239,list,lɪst,清单,CONCEPTS,She made a list of groceries to buy at the store.,她列了一个要在商店买的食品清单。,He checked off each item on the to-do list as he completed them.,他完成每项任务时都在待办事项清单上划掉了它们。
+240,look,lʊk,看,VERBS,She looked out the window and admired the beautiful view.,她朝窗外看，欣赏着美丽的景色。,He looked closely at the painting to appreciate the intricate details.,他仔细观察着画作，欣赏其中的精细细节。
+241,loss,lɔs,损失,CONCEPTS,She experienced a great loss when her beloved pet passed away.,当她心爱的宠物去世时，她感受到了巨大的损失。,He suffered a financial loss when his business venture failed.,当他的创业失败时，他遭受了经济损失。
+242,love,lʌv,爱,CONCEPTS,She fell in love with him at first sight.,她一见钟情地爱上了他。,He expressed his love for his family through acts of kindness and support.,他通过善良和支持表达对家人的爱。
+243,machine,məˈʃin,机器,CONCEPTS,She operated the machine with precision and skill.,她精确地运用技巧操作着机器。,He repaired the broken machine and got it working again.,他修理了坏了的机器，并使其恢复工作。
+244,man,mæn,男人,CONCEPTS,She married the man of her dreams.,她嫁给了她梦寐以求的男人。,He respected the man for his integrity and honesty.,他因他的正直和诚实而尊敬这个人。
+245,manager,ˈmænɪdʒər,经理,CONCEPTS,She was promoted to the position of manager.,她晋升为经理职位。,He managed a team of employees and oversaw their work.,他管理着一支员工团队并监督他们的工作。
+246,mark,mɑrk,标记,VERBS,She used a red pen to mark the errors in the document.,她用红笔标记文件中的错误。,He made a mark on the calendar to remember the important date.,他在日历上做了一个标记，以记住重要的日期。
+247,market,ˈmɑrkɪt,市场,CONCEPTS,She went to the farmers' market to buy fresh produce.,她去农贸市场买新鲜的农产品。,He invested in the stock market to grow his wealth.,他在股市上投资以增加自己的财富。
+248,mass,mæs,质量,CONCEPTS,She measured the mass of the object using a scale.,她使用秤量了物体的质量。,He calculated the mass of the planet based on scientific observations.,他根据科学观测计算了行星的质量。
+249,meal,mil,餐,CONCEPTS,She cooked a delicious meal for her family.,她为家人做了一顿美味的饭菜。,He enjoyed a satisfying meal at his favorite restaurant.,他在自己最喜欢的餐馆享用了一顿令人满足的饭菜。
+250,measure,ˈmɛʒər,测量,VERBS,She used a ruler to measure the length of the table.,她用尺子测量桌子的长度。,He took his measurements to order a custom-fitted suit.,他量身定做西装时进行了尺寸测量。
+251,meat,mit,肉,CONCEPTS,She cooked a steak for dinner.,她做了一块牛排作为晚餐。,He prefers to eat lean meats for a healthier diet.,他喜欢吃瘦肉，以保持更健康的饮食。
+252,meeting,ˈmitɪŋ,会议,CONCEPTS,She attended a business meeting to discuss the upcoming project.,她参加了一场商务会议，讨论即将到来的项目。,He scheduled a meeting with his colleagues to brainstorm ideas.,他安排了一次与同事们头脑风暴的会议，以提出创意。
+253,memory,ˈmɛməri,记忆,CONCEPTS,She cherished the memory of her childhood vacations.,她珍视着她童年度假的回忆。,He had a photographic memory and could recall details with ease.,他有着过目不忘的记忆，能轻松回忆起细节。
+254,metal,ˈmɛtl,金属,CONCEPTS,She collected scrap metal for recycling.,她收集金属废料进行回收。,He used a metal detector to search for buried treasure.,他用金属探测器搜索埋藏的宝藏。
+255,middle,ˈmɪdəl,中间,CONCEPTS,She sat in the middle of the row of seats.,她坐在座位的中间。,He found a comfortable spot in the middle of the park to relax.,他在公园中间找到一个舒适的地方休息。
+256,milk,mɪlk,牛奶,CONCEPTS,She poured a glass of milk for her cereal.,她给她的谷物倒了一杯牛奶。,He drank a glass of cold milk to soothe his upset stomach.,他喝了一杯冷牛奶来缓解他的胃不适。
+257,mind,maɪnd,思想,CONCEPTS,She had a curious mind and always asked questions.,她有着好奇的思维，总是提出问题。,He made up his mind to pursue his passion and change careers.,他下定决心追求自己的激情并改变职业。
+258,mine,maɪn,矿,CONCEPTS,She worked in a coal mine.,她在一座煤矿工作。,He owned a gold mine and extracted valuable minerals.,他拥有一座金矿，开采有价值的矿物。
+259,minute,ˈmɪnɪt,分钟,CONCEPTS,She waited for him for over ten minutes.,她等了他十多分钟。,He finished the task in just a few minutes.,他在几分钟内完成了任务。
+260,mist,mɪst,雾,CONCEPTS,She walked through the misty forest.,她走过雾气蒙蒙的森林。,He used a spray bottle to create a fine mist of water for his plants.,他使用喷雾瓶为植物喷洒细雾水。
